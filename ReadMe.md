@@ -1,4 +1,4 @@
-\# Git e GitHub
+# \#Git e GitHub.
 
 
 
@@ -6,7 +6,7 @@ Relembrando conceitos de Git e Git.
 
 
 
-\# Dia 01 .
+## \#Dia 01.
 
 
 
@@ -14,7 +14,7 @@ Relembramos conceitos de Git e aplicações na prática.
 
 
 
-\# Dia 02.
+## \#Dia 02.
 
 
 
